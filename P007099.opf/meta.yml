@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17742
   title: རྒྱལ་སྲས་ལག་ལེན་གྱི་ས་བཅད་ཕྱོགས་བསྡུས་སོགས།
-  volume: ''
+  volume:
+    048aec33f14049e08ab7b103a032018a:
+      image_group_id: I8LS17760
+      title: Volume 1 of rgyal sras lag len gyi sa bcad phyogs bsdus/
+      volume_number: 1
+      total_pages: 54
   author: ''
+ebook_metadata:
+  title: རྒྱལ་སྲས་ལག་ལེན་གྱི་ས་བཅད་ཕྱོགས་བསྡུས་སོགས།
+  author: ''
+  sku: P007099
+  cover: cover.jpg
+  layers:
+  - pagination
